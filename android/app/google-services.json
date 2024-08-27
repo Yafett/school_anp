@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589914085586",
+    "project_id": "sekolah-anp",
+    "storage_bucket": "sekolah-anp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589914085586:android:5fa720332b68e67906750b",
+        "android_client_info": {
+          "package_name": "com.example.school_apn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx9rtfYopkTnk9_oUlBOFEhOUyZmLyKIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
